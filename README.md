@@ -1,5 +1,5 @@
-Kirupa-Tennis-Free-Play
-=======================
+Kirupa Playground Free Play
+===========================
 
 No rules, no restrictions, anything goes, learn as you go, and try not to kill anyone.
 
