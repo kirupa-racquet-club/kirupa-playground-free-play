@@ -20,7 +20,7 @@ github_license_url: https://github.com/kirupa-racquet-club/kirupa-playground-fre
 destination: _public
 plugins: 	 _plugins
 
-exclude: [LICENSE, README.md]
+exclude: [LICENSE]
 
 markdown: redcarpet
 pygments: true
