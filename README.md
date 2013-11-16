@@ -27,7 +27,7 @@ There's a lot to digest, but you can find something basic to start from in the l
 * Get repo files:
 
 ```
-> git clone https://github.com/kirupa-racquet-club/kirupa-tennis-free-play.git
+> git clone https://github.com/kirupa-racquet-club/kirupa-playground-play.git
 > cd kirupa-tennis-free-play
 ```
 
