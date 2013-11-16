@@ -12,7 +12,7 @@ Things to Know
 
 The default branch is: `gh-pages`.  This means everything that goes into the repo can be accessed over http through:
 
-* http://kirupa-racquet-club.github.io/kirupa-tennis-free-play/
+* http://kirupa-racquet-club.github.io/kirupa-playground-play/
 
 
 **Using Git**
@@ -28,7 +28,7 @@ There's a lot to digest, but you can find something basic to start from in the l
 
 ```
 > git clone https://github.com/kirupa-racquet-club/kirupa-playground-play.git
-> cd kirupa-tennis-free-play
+> cd kirupa-playground-play
 ```
 
 You only need to clone once. This brings everything from the server down to your hard drive. Further updates are handled through `pull`.
