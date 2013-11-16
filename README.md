@@ -21,7 +21,7 @@ If you're new to git, a pretty good resource is:
 
 * http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
 
-There's a lot to digest, but you can find something basic to start from in the list there (or find something that fits your comfort level of learning).  A basic workflow for working with files in this repo would be something like:
+There's a lot to digest, but you can find something basic to start from in the list there (or find something that fits your comfort level of learning).  A basic workflow for working with files in this repo would be something like (via the command line which is often recommended for first time users of git):
 
 
 * Get repo files:
