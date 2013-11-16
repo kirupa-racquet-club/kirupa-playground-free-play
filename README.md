@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kirupa Playground Free Play"
+permalink: index.html
+---
+
 Kirupa Playground Free Play
 ===========================
 

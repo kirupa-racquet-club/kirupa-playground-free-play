@@ -1,0 +1,27 @@
+# ----------------------- #
+#     Site Variables      #
+# ----------------------- #
+
+url: 'http://kirupa-racquet-club.github.io/kirupa-tennis-free-play/'
+source_url: 'http://kirupa-racquet-club.github.io/kirupa-tennis-free-play/tree/gh-pages'
+
+title: "Kirupa Tennis Free-Play"
+subtitle: "Your serve!"
+
+github_url: https://github.com/kirupa-racquet-club/kirupa-playground-free-play
+github_username: kirupa-racquet-club
+github_license: UNLicense
+github_license_url: https://github.com/kirupa-racquet-club/kirupa-playground-free-play/blob/gh-pages/LICENSE
+
+# ----------------------- #
+#     Jekyll Configs      #
+# ----------------------- #
+
+destination: _public
+plugins: 	 _plugins
+
+exclude: [LICENSE]
+
+markdown: redcarpet
+pygments: true
+
