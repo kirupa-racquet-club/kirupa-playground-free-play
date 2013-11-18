@@ -1,0 +1,3 @@
+[submodule "lib/boxbox"]
+	path = lib/boxbox
+	url = https://github.com/incompl/boxbox.git
