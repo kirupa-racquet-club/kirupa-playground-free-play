@@ -1,6 +1,14 @@
 Kirupa Playground Free Play
 ===========================
 
+Match Type | Players | Technologies | Link
+--- | --- | --- | ---
+[Free Play](http://kirupa-racquet-club.github.io/match-types/#free_play) | Free for all | Any | [View](http://kirupa-racquet-club.github.io/kirupa-playground-free-play/)
+
+
+Description
+-----------
+
 No rules, no restrictions, anything goes, learn as you go, and try not to hurt anyone.
 
 
